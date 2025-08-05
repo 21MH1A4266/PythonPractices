@@ -1,5 +1,4 @@
-#TODO check resources sufficient to make drink order.
-#TODO 1. print report of all coffee machine resource
+
 MENU = {
     "espresso": {
         "ingredients": {
